@@ -1,0 +1,20 @@
+﻿Review ID,FeedbackID,Text,Sentiment,Compound,Confidence(%),Pos% (global),Neg% (global),Neu% (global)
+1,S096,item arrived spotless secure packing very satisfied,pos,0.7614,65,59.4,0,40.6
+2,S097,premium build feels durable smooth finish looks great,pos,0.7119,60,56.2,0,43.8
+3,S098,delivery took longer than expected but acceptable,neu,0.0192,11,19.3,5.9,74.8
+4,S099,packing slightly damaged but product safe overall ok,neu,0.0328,13,25.3,29.5,45.2
+5,S100,support extremely helpful resolved issue super fast,pos,0.8267,71,68.2,0,31.8
+6,S101,design elegant works smoothly impressive device,pos,0.8821,75,73.3,0,26.7
+7,S102,color tone lighter than shown online bit off,neu,0,0,0,0,100
+8,S103,poor durability broke within days extremely disappointed,neg,-0.6944,58,0,59.1,40.9
+9,S104,app lags too much keeps closing very irritating,neg,-0.3583,33,0,40.8,59.2
+10,S105,very quick shipping product received earlier than stated,pos,0.8437,72,66.1,0,33.9
+11,S106,defective piece received doesn’t work awful experience,neg,-0.7394,61,0,52.5,47.5
+12,S107,balanced audio clear highs decent bass overall good,pos,0.7482,61,55,0,45
+13,S108,fabric quality low slightly itchy not comfortable,neg,-0.2994,30,0,37.8,62.2
+14,S109,product okay average performance nothing too special,neu,0.0247,12,23.2,8.5,68.3
+15,S110,messaged support several times no response horrible,neg,-0.4268,36,0,39.8,60.2
+16,S111,outstanding device buttery smooth performance excellent,pos,0.9127,81,62.9,0,37.1
+17,S112,outer wrap dusty inside product fine but meh,neu,0.0159,10,23.7,6.8,69.5
+18,S113,quick response from support issue solved thrilled,pos,0.7761,62,46.8,0,53.2
+19,S114,item decent works okay but finishing feels cheap,neu,0.0316,13,24.5,10.1,65.4

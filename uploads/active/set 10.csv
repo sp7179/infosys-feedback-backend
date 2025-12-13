@@ -1,0 +1,20 @@
+﻿Review ID,FeedbackID,Text,Sentiment,Compound,Confidence(%),Pos% (global),Neg% (global),Neu% (global)
+1,S172,product came early neatly packed extremely satisfied,pos,0.7756,68,61.9,0,38.1
+2,S173,superb premium build feels durable absolutely worth it,pos,0.7367,64,58.1,0,41.9
+3,S174,delivery was late but acceptable overall,neu,0.0441,54,26.3,17,56.7
+4,S175,packaging had a small tear but product okay,neu,0.0371,52,27.6,18.3,54.1
+5,S176,fast response from support team resolved issue quickly,pos,0.8419,73,69.9,0,30.1
+6,S177,sleek design fast performance very happy,pos,0.8891,77,74.6,0,25.4
+7,S178,color slightly lighter than image but acceptable,neu,0.0264,51,24.1,19.3,56.6
+8,S179,terrible product broke in two days very disappointed,neg,-0.7031,63,0,62.8,37.2
+9,S180,app keeps lagging constant bugs horrible experience,neg,-0.3619,56,0,55.3,44.7
+10,S181,delivery super fast arrived before expected date,pos,0.8511,74,67.9,0,32.1
+11,S182,item arrived cracked completely unusable awful,neg,-0.7498,62,0,59.8,40.2
+12,S183,crisp clarity balanced bass nice overall audio,pos,0.7638,66,57.6,0,42.4
+13,S184,material itchy uncomfortable not worth buying,neg,-0.3271,54,0,54.8,45.2
+14,S185,okayish performance decent value nothing special,neu,0.0357,53,27.3,17.4,55.3
+15,S186,contacted support multiple times still no response,neg,-0.4362,55,0,55.9,44.1
+16,S187,excellent gadget flawless performance battery superb,pos,0.9172,84,64.8,0,35.2
+17,S188,dusty packaging but product inside fine,neu,0.0291,51,25.7,17.6,56.7
+18,S189,helpful support team responded quickly very satisfied,pos,0.7884,67,48.7,0,51.3
+19,S190,decent product works ok but feels slightly flimsy,neu,0.0368,55,27.8,16.8,55.4

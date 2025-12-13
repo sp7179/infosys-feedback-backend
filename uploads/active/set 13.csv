@@ -1,0 +1,20 @@
+﻿Review ID,FeedbackID,Text,Sentiment,Compound,Confidence(%),Pos% (global),Neg% (global),Neu% (global)
+1,S229,product arrived perfectly sealed super satisfied with quality,pos,0.7832,69,62.8,0,37.2
+2,S230,exceptional build premium feel definitely value for money,pos,0.7387,65,58.9,0,41.1
+3,S231,delivery slightly late but still okay overall neutral,neu,0.0452,54,26.4,17.1,56.5
+4,S232,box mildly damaged item completely fine inside,neu,0.0398,52,27.8,18.2,54
+5,S233,support team very quick fixed everything easily,pos,0.8468,74,70.6,0,29.4
+6,S234,device fast stylish and works flawlessly impressed,pos,0.8951,78,74.8,0,25.2
+7,S235,product color different from listing slightly disappointing,neu,0.0282,51,24.7,18.6,56.7
+8,S236,super cheap quality malfunctioned immediately terrible,neg,-0.7133,63,0,62.9,37.1
+9,S237,app crashes often too laggy terrible user experience,neg,-0.3681,55,0,55.4,44.6
+10,S238,ultra fast shipping received earlier than promised,pos,0.8533,75,68.2,0,31.8
+11,S239,received broken item screen shattered awful purchase,neg,-0.7492,62,0,59.7,40.3
+12,S240,crisp loud audio strong bass very satisfying overall,pos,0.7688,66,57.9,0,42.1
+13,S241,fabric feels rough low quality uncomfortable,neg,-0.3307,54,0,54.9,45.1
+14,S242,decent product fair value nothing amazing,neu,0.0374,53,27.3,17.4,55.3
+15,S243,contacted for help many times still no solution,neg,-0.4411,56,0,56.2,43.8
+16,S244,exceptional gadget smooth multitasking great battery wow,pos,0.9192,84,65.2,0,34.8
+17,S245,dusty packaging but product condition acceptable,neu,0.0285,52,26.1,17.6,56.3
+18,S246,support extremely fast resolved everything in minutes,pos,0.7926,67,48.2,0,51.8
+19,S247,product fine performance okay but feels slightly cheap,neu,0.0363,55,27.8,16.8,55.4

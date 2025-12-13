@@ -1,0 +1,20 @@
+﻿Review ID,FeedbackID,Text,Sentiment,Compound,Confidence(%),Pos% (global),Neg% (global),Neu% (global)
+1,S153,product delivered on time secure packing very satisfied,pos,0.7724,67,61.4,0,38.6
+2,S154,quality top notch strong materials feels premium,pos,0.7281,63,57.8,0,42.2
+3,S155,delivery took extra day but overall fine neutral,neu,0.0428,53,26.8,17.3,55.9
+4,S156,packaging slightly ripped product safe decent,neu,0.0376,52,27.9,18.5,53.6
+5,S157,customer care very polite and solved issue quickly,pos,0.8364,72,69,0,31
+6,S158,excellent finish fast performance happy with the buy,pos,0.8873,77,74.4,0,25.6
+7,S159,color looks slightly different from website still fine,neu,0.0293,51,23.8,19.2,57
+8,S160,product poorly made broke in a week horrible,neg,-0.7094,62,0,61.1,38.9
+9,S161,app slow glitches often frustrating usage experience,neg,-0.3727,54,0,54.9,45.1
+10,S162,incredibly fast courier received product earlier wow,pos,0.8494,74,67.4,0,32.6
+11,S163,received completely damaged item not acceptable,neg,-0.7482,61,0,59.6,40.4
+12,S164,crisp sound deep bass overall satisfying audio,pos,0.7665,66,57.1,0,42.9
+13,S165,material itchy rough edges not comfortable wearing,neg,-0.3188,53,0,54.5,45.5
+14,S166,average item decent performance expected bit more,neu,0.0364,53,27.4,17.7,54.9
+15,S167,no response from helpdesk very disappointing,neg,-0.4332,55,0,55.6,44.4
+16,S168,flawless device smooth operation excellent battery backup,pos,0.9183,83,64.3,0,35.7
+17,S169,outer packaging messy but product itself okay,neu,0.0285,51,25.7,17.9,56.4
+18,S170,helpful support instant reply resolved my issue fast,pos,0.7892,67,48.3,0,51.7
+19,S171,product usable fine but build feels weak cheapish,neu,0.0359,55,27.9,16.9,55.2

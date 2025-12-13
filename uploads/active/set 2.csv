@@ -1,0 +1,20 @@
+﻿Review ID,FeedbackID,Text,Sentiment,Compound,Confidence(%),Pos% (global),Neg% (global),Neu% (global)
+1,S020,item arrived perfectly sealed looks amazing very satisfied,pos,0.7441,64,58.9,0,41.1
+2,S021,build quality impressive strong grip fits well,pos,0.6912,59,55.3,0,44.7
+3,S022,delivery later than expected but still manageable,neu,0.0183,11,18.7,6.1,75.2
+4,S023,packaging torn a bit product fine but felt careless,neu,0.0298,12,25.1,29.4,45.5
+5,S024,customer support quick polite solved everything smoothly,pos,0.8234,70,68.1,0,31.9
+6,S025,design stylish works smoothly quite impressed,pos,0.8612,73,70.4,0,29.6
+7,S026,color not matching website slightly off tone,neu,0,0,0,0,100
+8,S027,very poor performance drains battery fast disappointing,neg,-0.6851,56,0,59.2,40.8
+9,S028,app slow unresponsive keeps lagging extremely annoying,neg,-0.3624,33,0,40.7,59.3
+10,S029,super fast shipping arrived earlier than i imagined,pos,0.8333,69,63.9,0,36.1
+11,S030,product came damaged scratches everywhere horrible,neg,-0.7426,61,0,51.4,48.6
+12,S031,sound good rich bass enjoyable listening experience,pos,0.7511,60,53.1,0,46.9
+13,S032,material rough edges sharp not comfortable disappointed,neg,-0.2842,29,0,37.6,62.4
+14,S033,decent purchase fair quality could be better,neu,0.0241,10,21.8,7.5,70.7
+15,S034,emailed many times still no support terrible service,neg,-0.4219,36,0,39.3,60.7
+16,S035,extremely smooth performance excellent battery life loving it,pos,0.9093,79,61.4,0,38.6
+17,S036,outer cover dusty inner item ok expected cleaner pack,neu,0.0174,11,23.9,6.9,69.2
+18,S037,fast assistance issue fixed quickly grateful support team,pos,0.7795,62,47.8,0,52.2
+19,S038,item fine quality average build not very durable,neu,0.0315,12,24.6,10.2,65.2
