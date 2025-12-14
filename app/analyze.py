@@ -236,7 +236,7 @@ def analyze_reviews_vader(reviews, timestamps=None, cleaned_reviews=None, feedba
             "neg": 0,
             "confidence": 0.0,
             "severity_score": 0
-        } for aspect in ASPECT_KEYWORDS
+        } for aspect in (ASPECT_KEYWORDS or {})
     }
     negative_words = []
     compound_scores = []
