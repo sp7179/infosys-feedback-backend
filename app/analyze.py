@@ -17,10 +17,11 @@ except Exception:
 
 # use DB values if present, else keep existing definitions
 TOP_N_ISSUES = _cfg.get("TOP_N_ISSUES", 5)
-ISSUE_CLUSTERS = _cfg.get("ISSUE_CLUSTERS", None)  # if None, your hardcoded dict should follow
-ASPECT_KEYWORDS = _cfg.get("ASPECT_KEYWORDS", None)
-SUGGESTION_MAP = _cfg.get("SUGGESTION_MAP", None)
-ADVANCED_SUGGESTION_DATA = _cfg.get("ADVANCED_SUGGESTION_DATA", None)
+ISSUE_CLUSTERS = _cfg.get("ISSUE_CLUSTERS", {})
+ASPECT_KEYWORDS = _cfg.get("ASPECT_KEYWORDS", {})
+SUGGESTION_MAP = _cfg.get("SUGGESTION_MAP", {})
+ADVANCED_SUGGESTION_DATA = _cfg.get("ADVANCED_SUGGESTION_DATA", {})
+
 
 
 # print("Loaded config from DB:", {
@@ -222,6 +223,10 @@ def compute_trends(reviews, timestamps=None, sentiments=None):
 
 # ----------------- VADER + Ensemble Analysis (uses raw review text) -----------------
 def analyze_reviews_vader(reviews, timestamps=None, cleaned_reviews=None, feedback_ids=None):
+    global ASPECT_KEYWORDS
+    if not ASPECT_KEYWORDS:
+        ASPECT_KEYWORDS = load_all().get("ASPECT_KEYWORDS", {})
+
     per_review_summary = []
     sentiment_counts = {"pos": 0, "neu": 0, "neg": 0}
     aspect_sentiment = {
