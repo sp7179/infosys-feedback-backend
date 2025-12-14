@@ -39,3 +39,8 @@ Thumbs.db
 # IMPORTANT: KEEP ML MODELS
 # (Do NOT ignore .joblib, .safetensors, .p)
 # ===============================
+
+
+# Docker local junk (optional)
+docker-data/
+Dockerfile.backup

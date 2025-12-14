@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env
+
+# Logs
+*.log
+retrain_logs/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node (if any)
+node_modules/
+
+# DO NOT ignore models, submodels, data
